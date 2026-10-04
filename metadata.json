@@ -1,0 +1,6 @@
+{
+  "name": "Vishnu Priya Hospital & Orthopaedic Center",
+  "description": "Premier Orthopedic & Multi-Specialty Hospital in Korutla, Telangana. Specialized in Joint Replacement, Arthroscopy, Complex Trauma, and 24/7 Emergency Care led by Dr. Naresh Odnala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
